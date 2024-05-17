@@ -15,8 +15,8 @@ title: Introduction
  
  总之，这是一个收集了我所有同人作品的网站，它存储了很多我没有发布在LOFTER上的隐藏内容，以及我作出修改后的部分新内容，希望你阅读愉快！ 
 
-## Next
+## 点击跳转
 
 {{< cards >}}
-  {{< card url="目录" title="Get Started" icon="document-text" subtitle="进入目录" >}}
+  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="进入目录" >}}
 {{< /cards >}}
