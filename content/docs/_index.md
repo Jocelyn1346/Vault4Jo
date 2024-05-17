@@ -14,5 +14,7 @@ title: Introduction
  
  总之，这是一个收集了我所有同人作品的网站，它存储了很多我没有发布在LOFTER上的隐藏内容，以及我作出修改后的部分新内容，希望你阅读愉快！ 
 
-## 点击跳转
+
+[周橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%91%A8%E6%A9%99/) | [叶橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%8F%B6%E6%A9%99/) |
+
 
