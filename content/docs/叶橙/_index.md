@@ -7,7 +7,3 @@ title: 叶橙
 
 crush
 
-短篇：
-[此间日]({{< relref "/content/归档/叶橙/此间日.md" >}}) |
-
----
