@@ -37,3 +37,4 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
+---
