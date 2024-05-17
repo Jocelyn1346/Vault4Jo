@@ -1,5 +1,4 @@
 ---
-linkTitle: Documentation
 title: Introduction
 ---
 
@@ -17,6 +16,3 @@ title: Introduction
 
 ## 点击跳转
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="进入目录" >}}
-{{< /cards >}}
