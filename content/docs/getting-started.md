@@ -20,4 +20,7 @@ weight: 1
 
 ### 喻文州乙女
 
+text: 一个尝试
+url: /reference/_index.md/
+
 {{% /steps %}}
