@@ -3,14 +3,20 @@ linkTitle: Documentation
 title: Introduction
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+👋 Welcome to my blog
 
 <!--more-->
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+ 我曾经希望通过自印本子的形式将我的作品收集起来，但是这样需要花费太多的时间和精力，所以我放弃了。
+
+ 后来我接触了obsidian，并发现了一些通过它实现的一些非常精致的个人网站，于是我开始尝试构建个人网站，可惜digital garden插件的同步经常报错，所以我将目光投向hugo和github，最后做出了这个网站。
+
+ 还好我比较懒，写的东西不多，所以即使经常搭新的网站，搬运也不是什么很费劲的力气活，原来鸽子的福报在这里啊，哈哈。
+ 
+ 总之，这是一个收集了我所有同人作品的网站，它存储了很多我没有发布在LOFTER上的隐藏内容，以及我作出修改后的部分新内容，希望你阅读愉快！ 
 
 ## Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="目录" title="Get Started" icon="document-text" subtitle="进入目录" >}}
 {{< /cards >}}
