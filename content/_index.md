@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: 有缘点进这个网页的朋友，你好
+      text: 我是一直懒得给自己起名字的普通同人作者小A，这是一个通过hugo和github以及visual studio实现的一个存档库，里面收集了我17年至今所有的全职高手、乙女游戏等的同人作品，希望你阅读愉快~
       primary_action:
-        text: Get Started
+        text: 归档目录
         url: https://hugoblox.com/templates/details/docs/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: 开始阅读
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "如果你也想要构建一个自己的网站"
         link:
           text: "Read more"
           url: "/blog/"
@@ -37,27 +37,6 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
