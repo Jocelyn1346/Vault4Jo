@@ -20,9 +20,6 @@ weight: 1
 
 ### 喻文州乙女
 
-text: 春秋
-url: /reference/_index.md/
-
 {{% /steps %}}
 
 ## Continue
