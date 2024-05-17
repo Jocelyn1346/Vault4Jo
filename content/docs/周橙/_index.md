@@ -1,6 +1,7 @@
 ---
-title: Guide
-weight: 2
+title: 周橙
+linktitle: 周橙
+weight: 1
 sidebar:
   open: true
 ---

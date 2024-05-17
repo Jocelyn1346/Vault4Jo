@@ -1,6 +1,6 @@
 ---
 linkTitle: 叶橙
-title: 目录
+title: 叶橙
 ---
 
 ## 长篇：
