@@ -1,5 +1,8 @@
 ---
 title: 周小瓜日记
+linktile: 周小瓜日记
+weight: 1
+---
 
 #### 回家
 
