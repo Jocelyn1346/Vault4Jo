@@ -8,7 +8,7 @@ main:
   - name: 归档
     url: docs/
     weight: 20
-  - name: 更新
+  - name: 更新日志
     url: latest release/
     weight: 30
   - name: 如何构建存档库

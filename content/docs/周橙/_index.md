@@ -1,7 +1,7 @@
 ---
 title: 周橙
 linktitle: 周橙
-weight: 
+weight: 1
 ---
 
 柠檬糖 | 回家
