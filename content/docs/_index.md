@@ -16,7 +16,7 @@ title: Introduction
 
 通过点击以下链接，跳转至相应目录
 
-[周橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%91%A8%E6%A9%99/) | [叶橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%8F%B6%E6%A9%99/) |
+[周橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%91%A8%E6%A9%99/) | [叶橙](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%8F%B6%E6%A9%99/) | [喻黄](https://jocelyn1346.github.io/Vault4Jo/docs/%E5%96%BB%E9%BB%84/)
 
 ---
 

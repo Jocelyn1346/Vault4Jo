@@ -8,27 +8,27 @@ main:
   - name: 归档
     url: docs/
     weight: 20
-  - name: Blog
+  - name: 更新
     url: blog/
     weight: 30
-  - name: Showcase
+  - name: 我的约稿
     url: showcase/
     weight: 40
-  - name: Community
+  - name: 如何构建存档库
     url: community/
     weight: 50
 
 sidebar:
   - identifier: more
-    name: Still need help?
+    name: 其他存档库地址
     params:
       type: separator
     weight: 1
-  - identifier: community
-    name: "Community"
-    pageRef: "/community"
+  - identifier: Obsidian Vault
+    name: "Obsidian Vault↗"
+    url: "http://a.lynn77251.cn"
     weight: 2
   - identifier: hugoDocs
-    name: "Hugo Docs ↗"
-    url: "https://docs.hugoblox.com"
+    name: "LOFTER↗"
+    url: "https://cuirhua.lofter.com/"
     weight: 3

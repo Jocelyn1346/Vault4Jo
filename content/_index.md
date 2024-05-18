@@ -13,16 +13,16 @@ sections:
       title: 朋友，你好
       text: 我是一直懒得给自己起名字的普通同人作者小A，这是一个通过hugo和github以及visual studio实现的一个存档库，里面收集了我17年至今所有的全职高手、乙女游戏等的同人作品，希望你阅读愉快~
       primary_action:
-        text: 归档目录
+        text: 构建网站
         url: https://hugoblox.com/templates/details/docs/
         icon: rocket-launch
       secondary_action:
         text: 开始阅读
-        url: /docs/
+        url: https://jocelyn1346.github.io/Vault4Jo/docs/
       announcement:
-        text: "如果你也想要构建一个自己的网站"
+        text: "破网站写了我一天……"
         link:
-          text: "Read more"
+          text: "Latest release"
           url: "/blog/"
     design:
       spacing:
