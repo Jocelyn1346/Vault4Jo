@@ -14,5 +14,5 @@ crush
 
 [back to intro](https://jocelyn1346.github.io/Vault4Jo/docs/)
 
-[A relative link from one post to another post]({{< relref "/content/docs/叶橙/此间日" >}})
+[A relative link from one post to another post]({{< relref "/content/docs/叶橙/此间日.md" >}})
 [Scroll down to a page section with heading *一、*](#一、)
