@@ -1,7 +1,7 @@
 ---
 title: v2.0.0 Released!
 summary: Hugo v2.0.0 released. Download now and follow the guide to get started in 5 minutes!
-date: 2024-01-19
+date: 2024-5-19
 authors:
   - admin
 tags:
