@@ -7,4 +7,11 @@ title: 叶橙
 
 crush
 
-[此间日]（https://jocelyn1346.github.io/Vault4Jo/docs/%E5%8F%B6%E6%A9%99/%E6%AD%A4%E9%97%B4%E6%97%A5/）
+testing the link
+[I'm an external link](https://www.google.com)
+[A post]({{< relref "/content/docs/叶橙/此间日.md" >}})
+[A publication]({{< relref "/content/docs/叶橙/此间日.md" >}})
+[A project]({{< relref "/content/docs/叶橙/此间日.md" >}})
+[A relative link from one post to another post]({{< relref "../此间日.md" >}})
+
+[back to intro](https://jocelyn1346.github.io/Vault4Jo/docs/)
