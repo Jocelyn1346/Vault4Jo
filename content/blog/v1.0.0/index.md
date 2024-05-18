@@ -1,6 +1,6 @@
 ---
 title: v1.0.0 Released!
-summary: 第二个网站存档库诞生啦
+summary: 我的第二个网站存档库诞生啦
 date: 2024-05-17
 authors:
   - admin
