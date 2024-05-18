@@ -9,7 +9,7 @@ main:
     url: docs/
     weight: 20
   - name: 更新日志
-    url: latest release/
+    url: blog/
     weight: 30
   - name: 如何构建存档库
     url: 教程/
