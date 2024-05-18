@@ -3,11 +3,11 @@ linkTitle: 叶橙
 title: 叶橙
 ---
 
-### 长篇：
+### 长篇
 
 crush
 
-### 短篇：
+### 短篇
 
 [此间日](https://jocelyn1346.github.io/Vault4Jo/docs/叶橙/此间日) | [潘狄亚](https://jocelyn1346.github.io/Vault4Jo/docs/叶橙/潘狄亚) | [速涂](https://jocelyn1346.github.io/Vault4Jo/docs/叶橙/速涂) 
 
