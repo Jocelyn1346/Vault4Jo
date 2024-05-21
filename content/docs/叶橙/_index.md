@@ -1,5 +1,4 @@
 ---
-linkTitle: 叶橙
 title: 叶橙
 weight: 2
 ---
