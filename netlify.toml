@@ -22,4 +22,3 @@
 
 [params.docs]
   extLinkNewTab   = false # Open external links in a new Tab? default true
-  intLinkTooltip   = true # Enable a tooltip for internal links that displays info about the destination? default false

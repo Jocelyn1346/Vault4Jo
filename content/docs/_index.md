@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: A Brief intro
 ---
 
 👋 Welcome to my blog
@@ -14,9 +14,5 @@ title: Introduction
  
  总之，这是一个收集了我所有同人作品的网站，它存储了很多我没有发布在LOFTER上的隐藏内容，以及我作出修改后的部分新内容，希望你阅读愉快！ 
 
-通过以下链接，跳转至相应目录
-
-[周橙]({{< relref "/docs/zhou/短篇/有关散步的一些事.md" >}}) | [叶橙]({{< relref "/docs/ye/短篇/此间日.md" >}})
-
-手机端访问，可以点击右上角访问目录，由于每个文件夹项下必须有一个目录存在，所以我把汇总目录拆开来了，但在每个页面都做了返回按钮，以便跳转
+[点我跳转至目录！Hope you enjoy it!]({{< relref "/docs/目录/Content.md" >}})
 
